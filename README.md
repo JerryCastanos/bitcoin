@@ -1,6 +1,6 @@
 Bitcoin Core integration/staging tree
 =====================================
-//testing//
+/
 
 https://bitcoincore.org
 
